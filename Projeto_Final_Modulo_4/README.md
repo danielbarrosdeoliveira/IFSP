@@ -4,4 +4,6 @@ Projeto Final, apresentado para conclusão do Curso na IFSP (Instituto Federal d
 A utilização do código fonte é livre, quem quiser testar pode pegar o .apk que está em APK/Cadastro_CPF.zip e instalar em seu Smartphone.
 
 Sugestões, Melhorias, Novas Ideias de desenvolvimento, entre em contato:
-d.dani_oli@hotmail.com
+danielbarrosdeoliveira@outlook.com
+
+http://danieloliveira.info
